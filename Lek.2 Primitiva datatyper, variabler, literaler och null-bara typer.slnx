@@ -1,0 +1,15 @@
+<Solution>
+  <Project Path="01 Profilen (Strängar och heltal)/01 Profilen (Strängar och heltal).csproj" />
+  <Project Path="02 Produktkortet (Blandade datatyper)/02 Produktkortet (Blandade datatyper).csproj" Id="901dacdd-a81b-48cd-8c48-5a203c96996f" />
+  <Project Path="03 Kaffemaskinen (Konstanter och literaler)/04 Kaffemaskinen (Konstanter och literaler).csproj" Id="03285f62-0fe4-4fd0-a912-8d03142bf6f3" />
+  <Project Path="05 Registreringsformuläret (Null-bara typer)/05 Registreringsformuläret (Null-bara typer).csproj" Id="3b20a43b-b714-408d-b3ac-df0bd789a150" />
+  <Project Path="06 Chattbotten (Stränghantering)/06 Chattbotten (Stränghantering).csproj" Id="fbba9870-10ad-44bd-8a66-b38659711832" />
+  <Project Path="07 Biosalongen (Objekt-typen)/07 Biosalongen (Objekt-typen).csproj" Id="0f89fb3a-3f78-49aa-a373-fcd132f5a306" />
+  <Project Path="08 Väderstationen (Flyttal och formatering)/08 Väderstationen (Flyttal och formatering).csproj" Id="8156260c-0ac4-4ccc-8453-19b506a2415e" />
+  <Project Path="09 Sanning eller konsekvens (Boolesk logik)/09 Sanning eller konsekvens (Boolesk logik).csproj" Id="c24d39da-ce53-43d6-8cbd-00be1fb16b13" />
+  <Project Path="10 'Null-coalescing' i praktiken (Användarprofilen)/10  Memory overflow Datatypernas gränser.csproj" Id="0d345075-0d2d-47dc-aa97-46a7961cffda" />
+  <Project Path="12 Null-coalescing i praktiken/12 Null-coalescing i praktiken.csproj" Id="533678e1-21b2-400b-84a1-602ccadc58f4" />
+  <Project Path="13 Dynamisk typning med object (Typkontroll)/11 Den osynliga buggen.csproj" Id="d627982d-b6a7-4faf-9f5d-4fec65fbfdf0" />
+  <Project Path="13 Dynamisk typning med object/13 Dynamisk typning med object.csproj" Id="678417ff-ab32-4835-89c1-8c6da07b1c7c" />
+  <Project Path="30 Bokstavsdetektiven (Tecken-Char)/03 Bokstavsdetektiven (Tecken-Char).csproj" Id="f7b117d1-1a2b-4f1f-a763-a1456b1f97dc" />
+</Solution>
